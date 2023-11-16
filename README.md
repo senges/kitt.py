@@ -1,5 +1,9 @@
 # Kitt
 
+> [!NOTE]  
+> This repository is a read-only mirror of [senges/kitt](https://github.com/senges/kitt) v1 in python.
+> It is now being rewritten in Rust, with major changes in program behavior.
+
 Kitt is a container based portable shell environment manager.
 
 Build, spawn, push and distribute your shell, with your tools, and your config, anywhere.
