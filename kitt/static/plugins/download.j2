@@ -1,0 +1,3 @@
+{% for ressource in ressources %}
+RUN curl -sSL {{ ressource.url }} --create-dirs -o {{ ressource.target }} --insecure
+{% endfor %}
